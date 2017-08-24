@@ -4,8 +4,9 @@
   justify-content: flex-end;
 }
 
-.nav-title {
+.navTitle {
   align-self: basis;
   flex-grow: 1;
   font-weight: bold;
+  background-color: blue;
 }

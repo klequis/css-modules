@@ -1,11 +1,23 @@
-.header {
+.green {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
+  background-color: green;
 }
 
-.nav-title {
+.yellow {
   align-self: basis;
   flex-grow: 1;
+  font-weight: bold;
+  background-color: yellow;
+}
+
+.greenFont {
+  color: green;
+  font-weight: bold;
+}
+
+.yellowFont {
+  color: yellow;
   font-weight: bold;
 }

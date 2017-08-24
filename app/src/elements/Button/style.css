@@ -1,0 +1,7 @@
+.hoverClass {
+  font-weight: bold !important;
+}
+
+.hoverClass:hover {
+  color: orange !important;
+}

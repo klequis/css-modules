@@ -1,11 +1,11 @@
 import React from 'react'
-import './style.css'
- 
+import styles from './style.css'
+
 const AdminBtns = () => (
-  <div className='admin-btns' id='admin-btns'>
+  <div className={styles.navTitle} id='admin-btns'>
     <button id='schedule-btn'>Schedule</button>
     <button id='members-btn'>Members</button>
-  </div> 
+  </div>
 )
 
 export default AdminBtns
