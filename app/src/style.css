@@ -1,0 +1,6 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: Arial;
+  color: #494C4E;
+}
